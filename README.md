@@ -1,4 +1,4 @@
-# Elemendadas del menda @dinerologo_  
+# Elemendadas del menda [@dinerologo_](https://twitter.com/dinerologo_)
 ## Codificador / descodificador de SVG a URL
 
 Esta es una herramienta útil para **usar SVG incrustados en CSS**, como imagen de fondo `background-image`, de borde `border-image` o de máscara `mask-image`.
